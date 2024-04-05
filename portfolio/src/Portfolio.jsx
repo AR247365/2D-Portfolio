@@ -21,7 +21,7 @@ export default function Portfolio() {
           </li>
           <li className=" py-7 text-center ">
             <a
-              href="https://art-three-graces.netlify.app/"
+              href="https://the-three-graces.netlify.app/"
               target="_blank"
               className="text-white font-normal text-5xl border-4 px-3 border-white hover:bg-white hover:text-black"
             >
