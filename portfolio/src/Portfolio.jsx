@@ -46,15 +46,7 @@ export default function Portfolio() {
               E-COMMERCE
             </a>
           </li>
-          <li className=" py-7 text-center">
-            <a
-              href="https://j0b-tracker.netlify.app/"
-              target="_blank"
-              className="text-white font-normal text-5xl border-4 px-3 border-white hover:bg-white hover:text-black"
-            >
-              JOB LEDGER
-            </a>
-          </li>
+
           <li className=" py-7 text-center ">
             <a
               href="https://galaxy-creator-3142857.netlify.app/"
@@ -89,7 +81,7 @@ export default function Portfolio() {
         <ul>
           <li className=" py-7 text-center ">
             <a
-              href="https://www.linkedin.com/in/abdul-rahaman-b3b465202"
+              href="https://www.linkedin.com/in/md-abdul-rahaman"
               target="_blank"
               className="text-white font-normal text-5xl border-4 px-3 border-white hover:bg-white hover:text-black"
             >
