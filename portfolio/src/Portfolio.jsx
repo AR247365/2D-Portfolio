@@ -19,6 +19,15 @@ export default function Portfolio() {
               PRODUCT LAUNCH
             </a>
           </li>
+          <li className=" py-7 text-center">
+            <a
+              target="_blank"
+              href="https://audio-room-3d-demo.netlify.app/"
+              className="text-white font-normal text-5xl border-4 px-3 border-white hover:bg-white hover:text-black "
+            >
+              HOME THEATRE
+            </a>
+          </li>
           <li className=" py-7 text-center ">
             <a
               href="https://the-three-graces.netlify.app/"
@@ -71,7 +80,7 @@ export default function Portfolio() {
               target="_blank"
               className="text-white font-normal text-5xl border-4 px-3 border-white hover:bg-white hover:text-black"
             >
-              PILOT
+              PROJECT ONE
             </a>
           </li>
         </ul>
