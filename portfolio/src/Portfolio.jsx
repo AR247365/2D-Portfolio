@@ -49,11 +49,11 @@ export default function Portfolio() {
 
           <li className=" py-7 text-center ">
             <a
-              href="https://galaxy-creator-3142857.netlify.app/"
+              href="https://galaxy-generat0r.netlify.app/"
               target="_blank"
               className="text-white font-normal text-5xl border-4 px-3 border-white hover:bg-white hover:text-black"
             >
-              PRESS "H"
+              GALAXY GENERATOR
             </a>
           </li>
           <li className=" py-7 text-center ">
