@@ -3,7 +3,7 @@ export default function Portfolio() {
     <>
       <main className="px-10 py-5 bg-black">
         <h1 className="text-white font-bold text-5xl py-4 text-center">
-          PLACE YOUR CURSOR HERE & SCROLL
+          PLACE YOUR CURSOR ANYWHERE ON "THIS" SCREEN & SCROLL
         </h1>
         <h2 className="text-white font-semibold text-6xl py-4 underline text-center">
           PROJECTS
