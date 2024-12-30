@@ -3,9 +3,9 @@ export default function Portfolio() {
     <>
       <main className="px-10 py-5 bg-black">
         <h1 className="text-white font-bold text-5xl py-4 text-center">
-          PLACE YOUR POINTER HERE & SCROLL
+          PLACE YOUR CURSOR HERE & SCROLL
         </h1>
-        <h2 className="text-white font-semibold text-6xl py-4 underline text-center">
+        <h2 className="text-white font-semibold text-5xl py-4 text-center">
           PROJECTS
         </h2>
         <br />
