@@ -5,7 +5,7 @@ export default function Portfolio() {
         <h1 className="text-white font-bold text-5xl py-4 text-center">
           PLACE YOUR CURSOR HERE & SCROLL
         </h1>
-        <h2 className="text-white font-semibold text-5xl py-4 text-center">
+        <h2 className="text-white font-semibold text-6xl py-4 underline text-center">
           PROJECTS
         </h2>
         <br />
