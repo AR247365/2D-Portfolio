@@ -2,8 +2,8 @@ export default function Portfolio() {
   return (
     <>
       <main className="px-10 py-5 bg-black">
-        <h1 className="text-white font-bold text-7xl py-4 text-center">
-          FRONT-END DEVELOPER
+        <h1 className="text-white font-bold text-5xl py-4 text-center">
+          PLACE YOUR POINTER HERE & SCROLL
         </h1>
         <h2 className="text-white font-semibold text-6xl py-4 underline text-center">
           PROJECTS
@@ -67,11 +67,11 @@ export default function Portfolio() {
           </li>
           <li className=" py-7 text-center ">
             <a
-              href="https://blender-scene.netlify.app/"
+              href="https://myhhouse.netlify.app/"
               target="_blank"
               className="text-white font-normal text-5xl border-4 px-3 border-white hover:bg-white hover:text-black"
             >
-              PORTAL SCENE
+              HAUNTED HOUSE
             </a>
           </li>
           <li className=" py-7 text-center ">
