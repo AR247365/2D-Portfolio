@@ -56,6 +56,24 @@ export default function Portfolio() {
             </a>
           </li>
 
+          <li className=" py-7 text-center">
+            <a
+              href="https://molecule-ship.netlify.app/"
+              target="_blank"
+              className="text-white font-normal text-5xl border-4 px-3 border-white hover:bg-white hover:text-black"
+            >
+              PARTICLE SHIP
+            </a>
+          </li>
+          <li className=" py-7 text-center">
+            <a
+              href="https://earth-planet-3.netlify.app/"
+              target="_blank"
+              className="text-white font-normal text-5xl border-4 px-3 border-white hover:bg-white hover:text-black"
+            >
+              EARTH
+            </a>
+          </li>
           <li className=" py-7 text-center ">
             <a
               href="https://galaxy-generat0r.netlify.app/"
@@ -63,6 +81,15 @@ export default function Portfolio() {
               className="text-white font-normal text-5xl border-4 px-3 border-white hover:bg-white hover:text-black"
             >
               GALAXY GENERATOR
+            </a>
+          </li>
+          <li className=" py-7 text-center">
+            <a
+              href="https://silced-model.netlify.app/"
+              target="_blank"
+              className="text-white font-normal text-5xl border-4 px-3 border-white hover:bg-white hover:text-black"
+            >
+              GEAR
             </a>
           </li>
           <li className=" py-7 text-center ">
