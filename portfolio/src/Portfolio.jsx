@@ -22,7 +22,7 @@ export default function Portfolio() {
           <li className=" py-7 text-center">
             <a
               target="_blank"
-              href="https://audio-room-3d-demo.netlify.app/"
+              href="https://audio-room-3d-demo.netlify.app/canvas"
               className="text-white font-normal text-5xl border-4 px-3 border-white hover:bg-white hover:text-black "
             >
               HOME THEATRE
